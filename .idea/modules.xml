@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarApp/CarApp.iml" filepath="$PROJECT_DIR$/CarApp/CarApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Editor3D/Editor3D.iml" filepath="$PROJECT_DIR$/Editor3D/Editor3D.iml" />
       <module fileurl="file://$PROJECT_DIR$/RewardApp/RewardApp.iml" filepath="$PROJECT_DIR$/RewardApp/RewardApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solid/Solid.iml" filepath="$PROJECT_DIR$/Solid/Solid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ticket/Ticket.iml" filepath="$PROJECT_DIR$/Ticket/Ticket.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/architecture-study-course.iml" filepath="$PROJECT_DIR$/.idea/architecture-study-course.iml" />
     </modules>
   </component>
